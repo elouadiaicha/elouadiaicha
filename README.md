@@ -17,4 +17,9 @@ CI/CD (GitHub Actions)
 - 👯 Je suis à la recherche d'un stage en milieu professionnel de 5 mois
 - 🤔 Je me situe à Ramonville, et je suis mobile dans toute la France 
 - 📫 mail : e-aicha@live.fr
--->
+--> # 🚀 Mes projets
+
+| Projet | Description | Technologies |
+|--------|-------------|--------------|
+| Page de profil GitHub | Ma première contribution Git | Git, Markdown |
+| [À venir] | [Description] | [Technologies] |
