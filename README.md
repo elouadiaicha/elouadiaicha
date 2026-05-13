@@ -18,3 +18,10 @@ CI/CD (GitHub Actions)
 |--------|-------------|--------------|
 | Page de profil GitHub | Ma première contribution Git | Git, Markdown |
 | [À venir] | [Description] | [Technologies] |
+
+## ⭐ Recommandation
+
+> *Aicha est une personne sérieuse et motivée, 
+> avec qui j'ai eu le plaisir de collaborer en formation DevOps Azure. 
+> Je recommande de suivre son parcours !"*  
+> — Malik, promotion DevOps Azure
