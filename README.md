@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**elouadiaicha/elouadiaicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 Je suis Aïcha ELOUADI, en reconversion professionnelle
 - 🔭 Je suis actuellement en formation Devops Azur chez Simplon, mon objectif est de devenir Administrateur système Devops 
 - 🌱 En ce moment j'apprends : Git, Azure, Docker, CI/CD
