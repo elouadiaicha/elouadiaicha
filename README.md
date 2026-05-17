@@ -1,23 +1,29 @@
-## Hi there 👋
+## BONJOUR A TOUS 👋
 
 Je suis Aïcha ELOUADI, en reconversion professionnelle
+
 - 🔭 Je suis actuellement en formation Devops Azur chez Simplon, mon objectif est de devenir Administrateur système Devops 
 - 🌱 En ce moment j'apprends : Git, Azure, Docker, CI/CD
+  
 - 📫 CompÃ©tences en cours d'acquisition :
-Git & GitHub
-Microsoft Azure
-Linux & Bash
-Docker
-CI/CD (GitHub Actions)
+          Git & GitHub
+          Microsoft Azure
+          Linux & Bash
+          Docker
+          CI/CD (GitHub Actions)
+  
 - 👯 Je suis à la recherche d'un stage en milieu professionnel de 5 mois
-- 🤔 Je me situe à Ramonville, et je suis mobile dans toute la France 
+  
+- 🤔 Je me situe à Ramonville, et je suis mobile dans toute la France
+  
 - 📫 mail : e-aicha@live.fr
---> # 🚀 Mes projets
+  
+- 🚀 Mes projets
 
-| Projet | Description | Technologies |
-|--------|-------------|--------------|
+| Projet                | Description                  |  Technologies |
+|-----------------------|------------------------------|---------------|
 | Page de profil GitHub | Ma première contribution Git | Git, Markdown |
-| [À venir] | [Description] | [Technologies] |
+| [À venir]             | [Description]                | [Technologies]|
 
 ## ⭐ Recommandation
 
